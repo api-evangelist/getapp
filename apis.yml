@@ -1,12 +1,11 @@
 aid: getapp
-url: 
-  https://raw.githubusercontent.com/api-evangelist/getapp/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/getapp/refs/heads/main/apis.yml
 apis: []
 name: GetApp
 tags:
-  - Software Discovery
   - B2B
   - Business Software
+  - Software Discovery
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
@@ -38,8 +37,7 @@ common:
   - url: https://www.getapp.com/community_guidelines/
     name: Community Guidelines
     type: Documentation
-  - url: 
-      https://www.gartner.com/en/digital-markets/insights/how-to-build-your-brand-with-capterra-getapp-and-software-advice
+  - url: https://www.gartner.com/en/digital-markets/insights/how-to-build-your-brand-with-capterra-getapp-and-software-advice
     name: Vendor Brand Building Guide
     type: Guide
   - url: https://twitter.com/GetApp
