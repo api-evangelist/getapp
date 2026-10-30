@@ -64,27 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GetApp (https://www.getapp.com/) is a business software discovery and recommendation platform owned by Gartner. It is part of the Gartner Digital Markets family alongside Capterra and Software Advice. GetApp helps small and mid-sized businesses find, compare, and select the right software by aggregating user reviews, feature comparisons, and category rankings across thousands of software products. The platform serves more than 100 million software buyers annually across the Gartner Digital Markets network, with over 2 million verified reviews and 30,000+ software profiles.
+GetApp is a free online resource that helps small businesses find, compare, and choose the best business software for their needs across hundreds of categories.
 
-GetApp publishes Category Leaders reports that rank top-rated software products in dozens of categories based on five criteria: ease of use, value for money, functionality, customer support, and likelihood to recommend. These rankings are derived from verified user reviews collected through GetApp's moderated review process. Reviews submitted to GetApp are also eligible to appear on Capterra and Software Advice.
+**Areas:** B2B · Business Software · Software Discovery
 
-## Vendor Program
+## GetApp on APIs.io
 
-Software vendors can list their products on GetApp through the Gartner Digital Markets vendor portal at https://www.gartner.com/en/digital-markets/profiles. Vendors gain access to a marketing toolkit that includes embeddable review badges, review collection services, and analytics on buyer activity. Badges and embed codes can be placed on vendor websites to build buyer trust. Reviews are shared across Capterra, GetApp, and Software Advice from a single vendor dashboard.
+Everything profiled for GetApp is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getapp/](https://apis.io/providers/getapp/)** — or go straight to one of the APIs or properties below.
 
-No public REST or GraphQL API is documented for programmatic access to GetApp's software listings or review data. Vendors and developers looking to integrate GetApp content should refer to the vendor portal and contact Gartner Digital Markets directly for available options.
+### Published properties
 
-## Links
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Website:** https://www.getapp.com/
-- **Category Leaders Methodology:** https://www.getapp.com/category-leaders-methodology/
-- **Vendor Portal:** https://www.gartner.com/en/digital-markets/profiles
-- **About Gartner Digital Markets:** https://www.gartner.com/en/digital-markets/about
-- **Vendor Brand Building Guide:** https://www.gartner.com/en/digital-markets/insights/how-to-build-your-brand-with-capterra-getapp-and-software-advice
-- **Terms of Use:** https://www.getapp.com/terms_of_use/
-- **Vendor Terms of Use:** https://www.getapp.com/vendor_terms_of_use/
-- **Privacy Policy:** https://www.getapp.com/privacy_policy/
-- **Data Protection Agreement:** https://www.getapp.com/data_protection_agreement/
-- **Community Guidelines:** https://www.getapp.com/community_guidelines/
-- **X (Twitter):** https://twitter.com/GetApp
-- **LinkedIn:** https://www.linkedin.com/company/getapp-com-a-gartner-company
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Getapp Domain Security](https://apis.io/security/getapp/getapp-domain-security/)
+- [Getapp Vulnerability Disclosure](https://apis.io/security/getapp/getapp-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.getapp.com/)
+- [Documentation](https://www.getapp.com/category-leaders-methodology/)
+- [Blog](https://www.getapp.com/press/)
+- [Terms of service](https://www.getapp.com/terms_of_use/)
+- [Privacy policy](https://www.getapp.com/privacy_policy/)
+
+## API Evangelist rating
+
+**Kin Score 11.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 25.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getapp/](https://apis.io/providers/getapp/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GetApp: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getapp/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
